@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RemoteService</string>
+    <string name="bgChange">Change background</string>
+    <string name="sendMessage">Send date and time</string>
+</resources>
